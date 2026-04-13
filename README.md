@@ -1,6 +1,6 @@
 # 🤖 Industrial Robot Arm & Conveyor Sorting System
 
-[![Simulation Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
+[![Simulation Video](https://img.youtube.com/vi/eopI0_xLKnc/0.jpg)](https://www.youtube.com/watch?v=eopI0_xLKnc)  
 *(Note: Click the image above to watch the full system simulation on YouTube)*
 
 ## 📌 Project Overview
